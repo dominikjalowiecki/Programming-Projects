@@ -8,12 +8,12 @@ Here are my solutions of [Google Foobar](https://foobar.withgoogle.com) challeng
 
 ## Level 1
 
-- [Solar Doomsday](/Level%201/solar_doomsday.py)
-- [The cake is not a lie!](/Level%201/the_cake_is_not_a_lie.py)
+- [Solar Doomsday](Level%201/solar_doomsday.py)
+- [The cake is not a lie!](Level%201/the_cake_is_not_a_lie.py)
 
 ## Level 2
 
-- [Please Pass the Coded Messages](/Level%202/please_pass_the_coded_messages.py)
-- [Numbers Station Coded Messages](/Level%202/numbers_station_coded_messages.py)
-- [Power Hungry](/Level%202/power_hungry.py)
-- [Bunny Prisioner Locating](/Level%202/bunny_prisioner_locating.py)
+- [Please Pass the Coded Messages](Level%202/please_pass_the_coded_messages.py)
+- [Numbers Station Coded Messages](Level%202/numbers_station_coded_messages.py)
+- [Power Hungry](Level%202/power_hungry.py)
+- [Bunny Prisioner Locating](Level%202/bunny_prisioner_locating.py)
